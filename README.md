@@ -1,2 +1,1 @@
-# Hi freinds 
-This is study coding with army
+lnitialized empty Git repsitory in /mnt/c/users/kho54/desktop/hukim/.git
