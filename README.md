@@ -1,2 +1,2 @@
-# sex
-Sex
+# Hi freinds 
+This is study coding with army
